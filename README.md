@@ -1,2 +1,2 @@
 # Lytech
-This repository contains recipes i like to share with my friends
+notre premier commit ajouter sur github
